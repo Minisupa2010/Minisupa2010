@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Minisupa2010
 - 👀 I’m interested in: Software development
-- 🌱 I’m currently learning: Programming languages
+- 🌱 I’m currently learning: Python,Java,C,C++
 - 💞️ I’m looking to collaborate on: Professionals that are experts in software development 
 - 📫 How to reach me: bandarajanaka940@gmail.com
 - 😄 Pronouns: he / him / his 
